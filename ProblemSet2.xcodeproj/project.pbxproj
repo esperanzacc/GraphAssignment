@@ -42,6 +42,14 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		6C1F585B27F4361E00619A25 /* RepeatingSquence */ = {
+			isa = PBXGroup;
+			children = (
+				6CDB3F6427F2E6B600348476 /* RepeatingSquence.swift */,
+			);
+			path = RepeatingSquence;
+			sourceTree = "<group>";
+		};
 		6CDB3F4E27F2AD8600348476 = {
 			isa = PBXGroup;
 			children = (
@@ -62,6 +70,7 @@
 			isa = PBXGroup;
 			children = (
 				6CDB3F6127F2AD9000348476 /* CyClic Permutation */,
+				6C1F585B27F4361E00619A25 /* RepeatingSquence */,
 				6CDB3F5A27F2AD8600348476 /* main.swift */,
 			);
 			path = ProblemSet2;
@@ -71,7 +80,6 @@
 			isa = PBXGroup;
 			children = (
 				6CDB3F6227F2ADC000348476 /* CyclicPermutation.swift */,
-				6CDB3F6427F2E6B600348476 /* RepeatingSquence.swift */,
 			);
 			path = "CyClic Permutation";
 			sourceTree = "<group>";
